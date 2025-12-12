@@ -3,9 +3,6 @@
 <p>Passionate Frontend developer, excited about finding innovative solutions to real-world problems. Proficient at learning and working by myself, but truly thriving as part of a great team. Working on making the world a better place through technology.</p>
 
 <h3>About me:</h3>
-
-<p>&#9749; For the last few years I worked on different React projects, learning new and exciting ways to use my development knowledge and explore new possibilities.</p>
-<p>&#128214; Part time student, pursuing a BA in Computer Science and Economics from the Open University of Israel.</p>
 <p>&#128172; Reach me on <a href="https://www.linkedin.com/in/leen-neuman" target="_blank">Linkedin</a></p>
 
 <h3>Technologies:</h3>
